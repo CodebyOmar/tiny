@@ -1,0 +1,16 @@
+{
+  "name": "@codebyomar/tiny",
+  "version": "1.0.0",
+  "description": "tiny npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "tiny",
+    "package"
+  ],
+  "author": "codebyomar <omarmohammed580@gmail.com>",
+  "license": "ISC"
+}
