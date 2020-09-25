@@ -1,8 +1,12 @@
 {
   "name": "@codebyomar/tiny",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "tiny npm package",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "github.com/CodebyOmar/tiny"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
