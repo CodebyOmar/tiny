@@ -1,6 +1,6 @@
 {
-  "name": "@codebyomar/tiny",
-  "version": "1.0.2",
+  "name": "tiny",
+  "version": "1.0.3",
   "description": "tiny npm package",
   "main": "index.js",
   "scripts": {
